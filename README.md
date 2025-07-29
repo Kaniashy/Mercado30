@@ -1,10 +1,12 @@
 ---
-title: Mercado360
-emoji: 📈
-colorFrom: green
-colorTo: yellow
+title: mercado360
+emoji: 🐳
+colorFrom: blue
+colorTo: pink
 sdk: static
 pinned: false
+tags:
+  - deepsite
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
